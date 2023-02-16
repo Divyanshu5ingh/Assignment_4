@@ -1,0 +1,8 @@
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.AssemblyReference.cache
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.CoreCompileInputs.cache
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+C:\Users\promact\source\repos\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
